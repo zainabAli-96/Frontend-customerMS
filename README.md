@@ -11,7 +11,7 @@ This is the frontend for the Customer Management System, built with React.
 
 ### Installation Steps
 
-1. Clone the repository (if you haven't already)
+1. Clone the repository 
    ```
    git clone https://github.com/zainabAli-96/Frontend-customerMS.git
    ```
