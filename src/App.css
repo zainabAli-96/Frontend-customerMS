@@ -1,0 +1,20 @@
+/* Add custom styles here */
+.cursor-pointer {
+  cursor: pointer;
+}
+
+/* Add some extra padding to the main content */
+.container {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+/* Improved table styles */
+.table th {
+  background-color: #f8f9fa;
+}
+
+/* Smooth transitions for hover effects */
+.btn {
+  transition: all 0.2s ease-in-out;
+}
